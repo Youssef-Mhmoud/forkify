@@ -2,7 +2,6 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "",
-  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
@@ -18,6 +17,8 @@
   "dependencies": {
     "core-js": "^3.27.2",
     "fractional": "^1.0.0",
+    "fracty": "^1.0.11",
+    "process": "^0.11.10",
     "regenerator-runtime": "^0.13.11"
   }
 }
