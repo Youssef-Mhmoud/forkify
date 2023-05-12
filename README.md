@@ -1,8 +1,3 @@
-# Forkify: [Live Demo](https://forkify-youssef1.netlify.app/)
-
-Recipe application wit custom recipe uploads.
-
-
 # Forkify Recipe Application
 Forkify is a web application that allows users to search for and save recipes, as well as upload their own custom recipes. The application is built using modern web development technologies such as HTML, CSS, and JavaScript, and follows object-oriented programming principles for better organization and maintainability.
 
